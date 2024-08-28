@@ -1,0 +1,5 @@
+homepage: "https://www.websitepolicies.com"
+documentation: "https://www.websitepolicies.com/support/gtm-cookie-consents"
+versions:
+  - sha: c382d2983d49907d6f37f2a82c0fec38707ea7d3
+    changeNotes: Initial version
